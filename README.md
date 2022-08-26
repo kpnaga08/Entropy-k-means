@@ -8,7 +8,6 @@ Published in [IEEE Access'21](https://ieeexplore.ieee.org/abstract/document/9423
 
 ![](https://github.com/kpnaga08/Entropy-k-means/blob/master/images/Fig1.png)   
 
-Published in [IEEE Access'21](https://ieeexplore.ieee.org/abstract/document/9423951/) <br /> 
 
 # Results
 
