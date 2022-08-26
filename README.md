@@ -2,11 +2,7 @@
 
 The proposed Entropy-k-means algorithm can eliminate irrelevant features with feature reduction under free of initializations with automatically finding an optimal number of clusters.
 
-<p align="center">
-<img src="https://github.com/kpnaga08/Entropy-k-means-images/blob/master/images/Fig1.png" width="450">
-</p>
-
-
+![](https://github.com/kpnaga08/Entropy-k-means/blob/master/images/Fig1.png)   
 
 Published in [IEEE Access'21](https://ieeexplore.ieee.org/abstract/document/9423951/) <br /> 
 
